@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Notapp</string>
+    <string name="menu_rgm">RGM</string>
+    <string name="menu_nome">Nome completo</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="disciplinaAf">Disciplina Af</string>
+    <string name="curso">Qual o seu curso ?</string>
+    <string name="semestre">Qual o seu semestre ?</string>
+
+
+    <string-array name="disciplina">
+
+    </string-array>
+
+    <string-array name="curso">
+        <item>Análise e Desenvolvimento de Sistemas</item>
+        <item>Banco De Dados</item>
+        <item>Ciência da Computação</item>
+        <item>Defesa Cibernética</item>
+        <item>Engenharia da Computação</item>
+        <item>Gestao de Tecnologia da Informação </item>
+        <item>Jogos digitais</item>
+        <item>Redes De Computadores</item>
+        <item>Sistema da informação</item>
+        <item>Sistema para internet</item>
+    </string-array>
+
+    <string-array name="semestre">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
